@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "frontend-project-lvl2",
+  "version": "1.0.0",
+  "description": "Command line difference calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vld-blv/frontend-project-lvl2.git"
+  },
+  "author": "Vlad Balanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vld-blv/frontend-project-lvl2/issues"
+  },
+  "homepage": "https://github.com/vld-blv/frontend-project-lvl2#readme",
+  "devDependencies": {
+    "eslint": "^7.20.0"
+  },
+  "dependencies": {
+    "commander": "^7.1.0"
+  }
+}
